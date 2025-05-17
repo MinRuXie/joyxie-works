@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="24" viewBox="0 0 30 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1179" data-name="Rectangle 1179" width="30" height="24" transform="translate(260 438)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_6" data-name="Mask Group 6" transform="translate(-260 -438)" clip-path="url(#clip-path)">
+    <g id="壽險公會LOGO" transform="translate(233.013 189.558)">
+      <g id="Group_6727" data-name="Group 6727" transform="translate(27.988 248.442)">
+        <path id="Path_9282" data-name="Path 9282" d="M28.017,248.442h7.143c0,4.791-.068,13.5-.034,14.529s-.3,1.883,1.931,1.921,5.227,0,5.227,0v7.09c-1.52,0-3.034,0-4.578,0-4.67.015-9.8.281-9.718-6.621C27.984,257.473,28.017,248.442,28.017,248.442Z" transform="translate(-27.988 -248.442)" fill="#00a0e9"/>
+        <path id="Path_9283" data-name="Path 9283" d="M37.03,248.473l11.451.029a9.315,9.315,0,0,1,8.14,7.177c1.563,6.713-3.673,9.181-3.673,9.181l3.91,7.129h-7.68l-6.558-11.5h4.269a2.766,2.766,0,0,0,2.855-2.3,2.474,2.474,0,0,0-2.589-2.623H37.03Z" transform="translate(-28.969 -248.444)" fill="#004098"/>
+        <g id="Group_6726" data-name="Group 6726" transform="translate(0.541 24.365)">
+          <path id="Path_9284" data-name="Path 9284" d="M28.6,274.693h1.331v2.783h2.018v.736C27.938,278.212,28.6,278.8,28.6,274.693Z" transform="translate(-28.556 -274.63)" fill="#003e8c"/>
+          <rect id="Rectangle_2042" data-name="Rectangle 2042" width="1.355" height="3.518" transform="translate(4.052 0.063)" fill="#003e8c"/>
+          <path id="Path_9285" data-name="Path 9285" d="M37.507,277.472v.736h-2.57c.571-1.084,1.007-1.873,1.573-2.957a1.193,1.193,0,0,1,2.008,0l1.52,2.967H38.848l-1.341-2.638-1.016,1.9h1.016Z" transform="translate(-29.004 -274.631)" fill="#003e8c"/>
+          <rect id="Rectangle_2043" data-name="Rectangle 2043" width="2.275" height="0.697" transform="translate(10.921 1.839)" fill="#003e8c"/>
+          <path id="Path_9286" data-name="Path 9286" d="M45.833,277.471l.736.736h1.418l-1.37-1.37s1.37-.053,1.37-1.1-1.534-1.045-1.534-1.045h-.619v.649c.421.048.837.184.847.532s-.421.5-.847.566Zm-2.154-2.778v3.518h1.307v-1.583l.847.847V276.44a4.483,4.483,0,0,1-.847.034v-1.137a5,5,0,0,1,.847,0v-.648Z" transform="translate(-29.607 -274.63)" fill="#003e8c"/>
+          <path id="Path_9287" data-name="Path 9287" d="M50.935,274.627a1.853,1.853,0,1,1,0,3.635v-.668a1.157,1.157,0,1,0,0-2.294Zm0,0h0v.673h0c-.852,0-1.316.469-1.316,1.147s.465,1.147,1.316,1.147h0v.668h0a1.853,1.853,0,1,1,0-3.635Z" transform="translate(-29.96 -274.627)" fill="#003e8c"/>
+          <path id="Path_9288" data-name="Path 9288" d="M57.762,275.768v-.929s-.136-.15-1.418-.15-2.555.436-2.536,1.815c.019,1.4,1.936,1.747,2.681,1.7s.866-.1,1.273-.15v-.934a2.892,2.892,0,0,1-1.316.4c-.716.029-1.563-.348-1.573-1.055s.668-1.137,1.437-1.152A2.89,2.89,0,0,1,57.762,275.768Z" transform="translate(-30.303 -274.63)" fill="#003e8c"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
